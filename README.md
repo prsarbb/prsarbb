@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prsarbb
-- 👀 I’m interested in Data Science and Deep Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Analysis Data
+- 👋 Hi, I’m Parisa Arbab
+- 👀 I’m interested in Deep Learning
+- 🌱 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
